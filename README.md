@@ -16,7 +16,7 @@ x   x   x                     x  xx    x   xx
         x   x       x xx    xxxxx     x      
        xx   xxxxx  x   xx   xx               
                          x   xxxxx     x     
-						 
-					
-                        hello there, stranger.
+
+
+hello there, stranger.
 ```
