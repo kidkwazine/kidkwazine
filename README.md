@@ -17,4 +17,4 @@ x   x   x                     x  xx    x   xx
        xx   xxxxx  x   xx   xx               
                          x   xxxxx     x     
 ```
-$${\color{white}hello \space there, \space stranger.}$$
+
